@@ -64,4 +64,4 @@ class extract:
 start = extract() # write path of the image file
 start.dectect_face_part() # write one of the face part / True or False to show the detected face (default=False) / True or False to save file which is part of the face (defalut=False)
 # start = extract('./images/image.jpg')
-# start.detect_face_part('left_eye',True,True)
+# start.detect_face_part('lips',True,True)
