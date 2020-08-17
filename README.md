@@ -10,7 +10,6 @@
 ## Face parts
 + left_eye
 + right_eye
-+ nose
 + lips
 + left_eyebrow
 + right_eyebrow
