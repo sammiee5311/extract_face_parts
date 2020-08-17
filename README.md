@@ -11,3 +11,4 @@
 + https://github.com/davisking/dlib-models
 + http://blog.dlib.net/2016/10/easily-create-high-quality-object.html
 + http://dlib.net/
++ https://youtu.be/V2gmgkSqyi8
