@@ -14,7 +14,6 @@
 + lips
 + left_eyebrow
 + right_eyebrow
-+ face
 
 ### Reference
 + https://github.com/davisking/dlib-models
