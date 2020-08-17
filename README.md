@@ -7,6 +7,15 @@
 + dlib
 + opencv
 
+## Face parts
++ left_eye
++ right_eye
++ nose
++ lips
++ left_eyebrow
++ right_eyebrow
++ face
+
 ### Reference
 + https://github.com/davisking/dlib-models
 + http://blog.dlib.net/2016/10/easily-create-high-quality-object.html
