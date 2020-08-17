@@ -1,7 +1,13 @@
 # extract_face_parts
 
+## How to use
+
+## Requirements
++ [download pre-trained data](https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2)
++ dlib
++ opencv
 
 ### Reference
-+ https://github.com/ageitgey/face_recognition
++ https://github.com/davisking/dlib-models
 + http://blog.dlib.net/2016/10/easily-create-high-quality-object.html
 + http://dlib.net/
