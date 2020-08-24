@@ -19,7 +19,7 @@ class extract:
         self.path = path
         self.img_original = cv2.imread(self.path)
         # self.img_original = cv2.resize(self.img_original,(0,0), None, 0.3, 0.3)
-        self.parts = {'face': [i for i in range(0,17)], 'left_eyebrow': [i for i in range(17,22)],
+        self.parts = {'jaw': [i for i in range(0,17)], 'left_eyebrow': [i for i in range(17,22)],
                       'right_eyebrow': [i for i in range(22,27)], 'nose': [i for i in range(27,36)],
                       'left_eye': [i for i in range(36,42)], 'right_eye': [i for i in range(42,48)],
                       'lips': [i for i in range(48,61)]}
