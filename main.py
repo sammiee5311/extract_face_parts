@@ -8,7 +8,7 @@ import dlib
 # lips
 # left_eyebrow
 # right_eyebrow
-# face
+# jaw lines
 
 detect = dlib.get_frontal_face_detector()
 predict = dlib.shape_predictor('shape_predictor_68_face_landmarks.dat')
